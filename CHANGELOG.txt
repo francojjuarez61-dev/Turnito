@@ -1,1 +1,0 @@
-Registros: eliminado selector turno tarde/noche. Agregado botón 'Borrar día de registro'.
